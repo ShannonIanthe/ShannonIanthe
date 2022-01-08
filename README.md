@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2> 💞️  Hi, I’m Shannon! </h2><br>
+<h2> 👋  Hi, I’m Shannon! </h2><br>
 👩🏻‍💻  Front-End Developer <br>
 <br>
 👀 I’m interested in front end animation, playing ukelele and singing! <br>
