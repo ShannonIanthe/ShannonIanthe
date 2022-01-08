@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ShannonIanthe/ShannonIanthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 💞️  Hi, I’m Shannon! </h2><br>
+👩🏻‍💻  Front-End Developer <br>
+<br>
+👀 I’m interested in front end animation, playing ukelele and singing! <br>
+<br>
+🌱 I am currently studying -> Reactjs and UI / UX Design <br>
+<br>
+🔭 I’m currently working on 100 projects and 100 days of JS projects <br>
+<br>
+💞️ I am looking forward to collaborating on projects and be part of an incredible team! 👏 <br>
+<br>
+📫 You can reach me on my Linkedin: <a href="https://www.linkedin.com/in/shannon-mettry/">Shannon Mettry</a> 
