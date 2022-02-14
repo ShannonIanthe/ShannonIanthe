@@ -1,7 +1,7 @@
 <h2> 👋  Hi, I’m Shannon! </h2><br>
 👩🏻‍💻  Fullstack Web Developer <br>
 <br>
-👀 I’m interested in front end animation, playing ukelele and singing! <br>
+👀 I’m interested in front end animation, Reactjs and UX / UI design <br>
 <br>
 🌱 I am currently studying -> Reactjs and UI / UX Design <br>
 <br>
