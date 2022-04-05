@@ -1,16 +1,27 @@
 
-<h2> 👋  Hi, I’m Shannon! </h2><br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="250">
+  </div>
+  
+ <h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  
+
+
 👩🏻‍💻  Fullstack Web Developer <br>
-<br>
+
 👀 I’m interested in front end animation, Reactjs and UX / UI design <br>
-<br>
+
 🌱 I am currently studying -> Reactjs and UI / UX Design <br>
-<br>
+
 🔭 I’m currently working on Personal Websites for my clients <br>
-<br>
+
 💞️ I am looking forward to collaborating on projects and be part of an incredible team! 👏 <br>
-<br>
+
 📫 You can reach me on my Linkedin: <a href="https://www.linkedin.com/in/shannon-mettry/">Shannon Mettry</a> 
+
 <br>
 <br>
 <h2>🛠︎  Languages and Tools:</h2>
