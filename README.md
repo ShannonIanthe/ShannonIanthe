@@ -7,25 +7,26 @@
   <img src="https://komarev.com/ghpvc/?username=ShannonIanthe&style=flat-square&color=blue" alt=""/>
   </div>
   
-<h1 align="center">
-  hey there
+<h1>
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
+  <h3> 👩🏻‍💻  About Me : </h3>
 
-
-<b>👩🏻‍💻   Fullstack Web Developer <br>
+<h3> I am a Front End Web Developer 🎨 based in Madrid<br> </h3> <br>
   
-👀 I’m interested in front end animation, Reactjs and UX / UI design <br>
+  <ul>
+    <li> 👀 I’m interested in front end animation, Reactjs and UX / UI design </li> <br>
 
-🌱 I am currently studying -> Reactjs and UI / UX Design <br>
+<li>🌱 I am currently studying -> Reactjs and UI / UX Design </li> <br>
 
-🔭 I’m currently working on Personal Websites for my clients <br>
+<li>🔭 I’m currently working on Personal Websites for my clients </li> <br>
 
-💞️ I am looking forward to collaborating on projects and be part of an incredible team! 👏 <br>
+<li>💞️ I am looking forward to collaborating on projects and be part of an incredible team! 👏 </li> <br>
 
-📫 You can reach me on my Linkedin: <a href="https://www.linkedin.com/in/shannon-mettry/">Shannon Mettry</a> 
-</b>
+<li>📫 You can reach me on my Linkedin: <a href="https://www.linkedin.com/in/shannon-mettry/">Shannon Mettry</a> 
+</ul>
 <br>
 <br>
 <h2>🛠︎  Languages and Tools:</h2>
