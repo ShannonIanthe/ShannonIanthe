@@ -14,20 +14,20 @@
   
   <h3> 👩🏻‍💻  About Me : </h3>
 
-<h3> I am a Front End Web Developer 🎨 based in Madrid<br> </h3> <br>
+<h3> 🎨 I am a Front End Web Developer based in Madrid<br> </h3> <br>
   
   <ul>
-    <li> 👀 I’m interested in front end animation, Reactjs and UX / UI design </li> <br>
+    <li> 👀 I’m interested in front end animation, Reactjs and UX / UI design </li> 
 
-<li>🌱 I am currently studying -> Reactjs and UI / UX Design </li> <br>
+<li>🌱 I am currently studying -> Reactjs and UI / UX Design </li> 
 
-<li>🔭 I’m currently working on Personal Websites for my clients </li> <br>
+<li>🔭 I’m currently working on Personal Websites for my clients </li> 
 
-<li>💞️ I am looking forward to collaborating on projects and be part of an incredible team! 👏 </li> <br>
+<li>💞️ I am looking forward to collaborating on projects and be part of an incredible team! 👏 </li> 
 
 <li>📫 You can reach me on my Linkedin: <a href="https://www.linkedin.com/in/shannon-mettry/">Shannon Mettry</a> 
 </ul>
-<br>
+
 <br>
 <h2>🛠︎  Languages and Tools:</h2>
 <div style="background-color:aliceblue;padding:25px;">
