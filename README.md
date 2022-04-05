@@ -3,15 +3,19 @@
   <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="250">
   </div>
   
- <h1>
-  Hey there
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShannonIanthe&style=flat-square&color=blue" alt=""/>
+  </div>
+  
+<h1 align="center">
+  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
 
 
-👩🏻‍💻  Fullstack Web Developer <br>
-
+<b>👩🏻‍💻   Fullstack Web Developer <br>
+  
 👀 I’m interested in front end animation, Reactjs and UX / UI design <br>
 
 🌱 I am currently studying -> Reactjs and UI / UX Design <br>
@@ -21,7 +25,7 @@
 💞️ I am looking forward to collaborating on projects and be part of an incredible team! 👏 <br>
 
 📫 You can reach me on my Linkedin: <a href="https://www.linkedin.com/in/shannon-mettry/">Shannon Mettry</a> 
-
+</b>
 <br>
 <br>
 <h2>🛠︎  Languages and Tools:</h2>
