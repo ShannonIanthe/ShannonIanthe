@@ -17,13 +17,11 @@
 <h3> 🎨 I am a Front End Web Developer based in Madrid<br> </h3> <br>
   
   <ul>
-    <li> I’m interested in front end animation, Reactjs and UX / UI design </li> 
+    <li>💫 I’m interested in front end animation, Reactjs and UX / UI design </li> 
 
 <li>🌱 I am currently studying -> Reactjs and JavaScript </li> 
 
 <li>🔭 I’m currently working on a personal Fullstack project and side projects for clients</li> 
-
-<li>💞️ I am looking forward to collaborating on projects and be part of an incredible team! 👏 </li> 
 
 <li>📫 You can reach me on my Linkedin: <a href="https://www.linkedin.com/in/shannon-mettry/">Shannon Mettry</a> 
 </ul>
