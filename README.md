@@ -19,7 +19,7 @@
   <ul>
     <li>💫 I’m interested in front end animation, Reactjs and UX / UI design </li> 
 
-<li>🌱 I am currently studying -> Reactjs and JavaScript </li> 
+<li>🌱 I am studying -> Reactjs and JavaScript </li> 
 
 <li>🔭 I’m currently working on a personal Fullstack project and side projects for clients</li> 
 
